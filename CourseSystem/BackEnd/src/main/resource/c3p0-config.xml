@@ -1,0 +1,8 @@
+<c3p0-config>
+    <default-config>
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/CourseSystem?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf8</property>
+        <property name="user">数据库用户名</property>
+        <property name="password">数据库密码</property>
+    </default-config>
+</c3p0-config>
